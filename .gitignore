@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Environment
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Data/models
+data/
+models/
+checkpoints/
+
+# Large ML files
+*.pt
+*.pth
+*.ckpt
+*.h5
